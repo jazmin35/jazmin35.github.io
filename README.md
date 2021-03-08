@@ -1,2 +1,2 @@
 # jazmin35.github.io
-Demo page 
+Az iskolai Goldi weblap projekt.
